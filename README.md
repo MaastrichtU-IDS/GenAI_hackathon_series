@@ -5,7 +5,7 @@ This repository is for IDS generative AI (synthetic data generation) hackathon m
 
 | Host          | Date           | Topics                                    |
 |--------------|--------------|-------------------------------------------|
-| [Chang Sun](https://www.linkedin.com/in/chang-sun-maastricht/)    | 23-Jan-2025   | Tabular data generation      |
+| [Chang Sun](https://www.linkedin.com/in/chang-sun-maastricht/)    | 23-Jan-2025   | [Tabular data generation](https://github.com/MaastrichtU-IDS/GenAI_hackathon_series/tree/main/S1_Tabular_Data_Generation)     |
 | [Mahmoud Ibrahim](https://www.linkedin.com/in/mahmoud-ibrahim-3135bb1a2/)      | 27-Feb-2025   | Diffusion Models for timeseries data     |
 | Kaspar (TBC)      | 27-Mar-2025   | Diffusion Models for chest x-rays        |
 | Yaru Zhang (TBC)  | 24-Apr-2025   | Drug-RAG                                 |
